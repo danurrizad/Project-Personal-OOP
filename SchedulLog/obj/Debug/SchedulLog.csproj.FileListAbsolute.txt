@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\bin\Debug\dbLogin.mdf
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\bin\Debug\dbLogin_log.ldf
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\bin\Debug\SchedulLog.exe.config
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\bin\Debug\SchedulLog.exe
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\bin\Debug\SchedulLog.pdb
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.LoginMenu.resources
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.MenuUtama.resources
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.Properties.Resources.resources
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.exe
+C:\Users\USER\Desktop\Project Individu OOP\SchedulLog\SchedulLog\obj\Debug\SchedulLog.pdb
